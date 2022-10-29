@@ -1,0 +1,20 @@
+
+/* *{
+  box-sizing: 2px solid rgb(66, 60, 60);
+} */
+
+*{
+  background-color: rgb(209, 99, 99);
+}
+.App{
+  text-align: center;
+  padding: 07%;
+  
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-top: 3%;
+  color: white;
+  padding: 10%;
+  
+}
+
